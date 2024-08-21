@@ -1,0 +1,111 @@
+
+.container{
+  height: 10vh;
+  width: 99vw;
+ 
+  background-color: white;
+}
+
+
+img{
+  width: 100px;
+  height: 70px;
+  
+}
+
+nav{
+  display: flex;
+  justify-content:space-between ;
+  gap: 20px;
+  align-items: center;
+
+ 
+}
+div{
+  display: flex;
+  align-items: center;
+
+}
+
+span{
+  border: 1px solid ;
+  padding: 10px;
+  margin: 0;
+  width: 150px;
+  border-radius: 50px;
+}
+.fa-magnifying-glass{
+  margin-left: 80px;
+}
+.fa-circle-half-stroke{
+  padding: 10px;
+}
+.con{
+display: flex;
+ position: absolute;
+ right:30px;
+  gap: 40px;
+}
+#hi{
+ display: flex;
+ width: 120px;
+ 
+
+}
+#hello{
+
+
+ background-color: darkgray;
+ width: 50px;
+ position: absolute;
+ right: 0px;
+ top: 0px;
+ 
+
+}
+.container1{
+ background-color: black;
+ 
+
+}
+ul{
+ 
+ padding: 0;
+  gap: 35px;
+  display: flex;
+  justify-content: space-between;
+  justify-content: flex-start;
+list-style: none;
+color: beige;
+
+}
+main{
+ width: 100%;
+  background-color: black;
+  color: white;
+  font-weight: 100;
+  text-align: center;
+  align-items: center;
+ 
+  font-size: 50px;
+  justify-content: center;
+  box-decoration-break: slice;
+ 
+}
+.h2{
+font-size:  1.8rem;
+margin-top:-40px ;
+}
+#bar{
+ 
+ font-size: 30px;
+ margin-top: -20;
+  
+}
+.ul{
+  display: flex;
+  justify-content: center;
+}
+
+
+ 
